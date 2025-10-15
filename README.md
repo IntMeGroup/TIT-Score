@@ -28,7 +28,7 @@ Our work addresses a critical gap in the evaluation of Text-to-Image (T2I) model
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/IntMeGroup/TIT-Score.git](https://github.com/IntMeGroup/TIT-Score.git)
+    git clone https://github.com/IntMeGroup/TIT-Score.git
     cd TIT-Score
     ```
 
@@ -60,7 +60,7 @@ Our benchmark dataset, **LPG-Bench**, is hosted on the Hugging Face Hub.
 
 * **For users in mainland China** who may experience connectivity issues, it is recommended to use a mirror endpoint. You can set the environment variable before downloading:
     ```bash
-    export HF_ENDPOINT=[https://hf-mirror.com](https://hf-mirror.com)
+    export HF_ENDPOINT=https://hf-mirror.com
     huggingface-cli download --repo-type dataset --resume-download Moyao001/LPG-Bench --local-dir LPG-Bench
     ```
 
