@@ -1,5 +1,5 @@
 # TIT-Score: Evaluating Long-Prompt Based Text-to-Image Alignment via Text-to-Image-to-Text Consistency
-[![Paper](https://img.shields.io/badge/paper-ICLR--2026--Under--Review-red)](https://arxiv.org/abs/2510.02987) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Workflow Diagram](image/TIT-Score.png) This repository contains the official implementation and resources for the paper: **TIT-SCORE: EVALUATING LONG-PROMPT BASED TEXT-TO-IMAGE ALIGNMENT VIA TEXT-TO-IMAGE-TO-TEXT CONSISTENCY**.
+[![Paper](https://img.shields.io/badge/paper-CVPR--2026--Under--Review-red)](https://arxiv.org/abs/2510.02987) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) ![Workflow Diagram](image/TIT-Score.png) This repository contains the official implementation and resources for the paper: **TIT-SCORE: EVALUATING LONG-PROMPT BASED TEXT-TO-IMAGE ALIGNMENT VIA TEXT-TO-IMAGE-TO-TEXT CONSISTENCY**.
 
 Our work addresses a critical gap in the evaluation of Text-to-Image (T2I) models: their ability to follow long and detailed prompts. To tackle this, we introduce:
 1. **LPG-Bench**: A comprehensive benchmark specifically designed for evaluating long-prompt T2I generation.
